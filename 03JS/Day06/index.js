@@ -50,7 +50,7 @@
 // const user = "  Rohit  Negi ";
 // console.log(user.trim());
 
-// const names = "Rohit Mohit Suraj Rohan Anjali";
+// const names = "Bhavya Ashu Zoro Itachi Sasuke Baki";
 
 // console.log(names.split(" "))
 // console.log(names.split(","))

@@ -137,5 +137,5 @@
 
 
 const a = [10,309,"Rohit",9.3, true];
-a.name = "Moahn";
+a.name = "Zoro";
 console.log(a);
