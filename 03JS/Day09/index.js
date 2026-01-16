@@ -95,13 +95,13 @@
 
 // const greeting = ()=> {
 //     return {
-//         name:"Rohit",
+//         name:"Zoro",
 //         age:20,
 //     }
 // }
 
 
-// const greeting = ()=> ({ name:"Rohit",age:20});
+// const greeting = ()=> ({ name:"Zoro",age:20});
 
 
 // console.log(greeting());
@@ -114,7 +114,7 @@
 // })();
 
 // (()=>{
-//     console.log("hi");
+//     console.log("hiii");
 // })();
 
 
@@ -140,7 +140,6 @@
 // meet(dance);
 
 // blinkit
-
 function blinkitOrderPlaced(){
     console.log("We have started packing your Order");
 }
