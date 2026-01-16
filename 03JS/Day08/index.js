@@ -56,9 +56,9 @@
 
 
 // const user = {
-//    name: "Rohit",
+//    name: "Zoro",
 //    age: 20,
-//    emailId: "negi@gmail.com",
+//    emailId: "king@gmail.com",
 //    amount: 3400,
 // }
 
@@ -75,7 +75,7 @@
 
 // console.log(Object.entries(user));
 // [
-//   [ 'name', 'Rohit' ],
+//   [ 'name', 'Zoro' ],
 //   [ 'age', 20 ],
 //   [ 'emailId', 'negi@gmail.com' ],
 //   [ 'amount', 3400 ]
@@ -102,9 +102,9 @@
 
 
 // const user = {
-//    name: "Rohit",
+//    name: "Zoro",
 //    age: 20,
-//    emailId: "negi@gmail.com",
+//    emailId: "king@gmail.com",
 //    amount: 3400,
 //    greeting: function(){
 //     console.log(`Strike is coming on 18 october ${this.name}`);
@@ -113,7 +113,7 @@
 // }
 
 // const user2 = {
-//     name:"Mohan",
+//     name:"Goro",
 //     account:201,
 //      greeting: function(){
 //     console.log(`Strike is coming on 18 october ${this.name}`);
@@ -130,13 +130,13 @@
 // nested object
 
 // const user = {
-//    name: "Rohit",
+//    name: "Zoro",
 //    age: 20,
 //    emailId: "negi@gmail.com",
 //    amount: 3400,
 //    address: {
-//     city:"kotdwar",
-//     state:"Uttarkhand"
+//     city:"Bulandshahr",
+//     state:"UttarPradesh"
 //    }
 // }
 
